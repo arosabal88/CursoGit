@@ -1,4 +1,4 @@
-#include "firstdialog.h"   // un comentario de prueba  
+#include "firstdialog.h"   // un comentario de prueba  2
 #include "ui_firstdialog.h"
 #include "seconddialog.h"
 #include <QDialog>
